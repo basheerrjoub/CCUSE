@@ -10,7 +10,7 @@ already stores, so the percentages are authoritative rather than estimated.
 ## What it shows
 
 - **Top bar:** a 10-cell unicode bar + the 5-hour-window percentage, e.g.
-  `███░░░░░░░ 29%`
+  $\color{#DE7356}\texttt{███░░░░░░░ 29\%}$ (rendered in Claude orange)
 - **Dropdown:**
   - 5-hour window % and reset countdown
   - Weekly (7-day) % and reset countdown
