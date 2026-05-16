@@ -37,7 +37,7 @@ CREDENTIALS_PATH = Path.home() / ".claude" / ".credentials.json"
 USAGE_URL = "https://api.anthropic.com/api/oauth/usage"
 ANTHROPIC_BETA = "oauth-2025-04-20"
 USER_AGENT = "claude-cli/2.1.142"
-REFRESH_SECONDS = 60
+REFRESH_SECONDS = 120
 HTTP_TIMEOUT = 15
 BAR_WIDTH = 10
 

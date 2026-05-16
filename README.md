@@ -18,7 +18,7 @@ already stores, so the percentages are authoritative rather than estimated.
   - Last-update timestamp
   - Refresh / Quit
 
-The data is fetched every 60 seconds and on demand via *Refresh now*.
+The data is fetched every 120 seconds and on demand via *Refresh now*.
 
 ## Requirements
 
